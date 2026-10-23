@@ -1,0 +1,8 @@
+root_cause_class,consumer_count,total_missed_reads_q1,rna_bill_count
+Tamper,86,3901,66
+Network coverage,10,388,7
+Hardware,0,0,0
+Firmware,1,18,1
+Transient,6238,122802,1734
+Normal,11765,99382,1278
+Unknown,0,0,0
